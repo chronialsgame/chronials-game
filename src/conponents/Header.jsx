@@ -55,7 +55,7 @@ const Header =()=>{
               <div className="social-icon">
                 <a href="https://x.com/chronialsgame"><img src={xlogo} alt="xChronialsgame" /></a>
                 <a href="#"><img src={telegram} alt="" /></a>
-                <a href="#"><img src={dexLogo} alt="" /></a>
+                <a href="https://t.me/chronials"><img src={dexLogo} alt="tChronialsgame" /></a>
               </div>
               <HashLink to='#connect'>
                 <button className="vvd"><span>Let’s Connect</span></button>
