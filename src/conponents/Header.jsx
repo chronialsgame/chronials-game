@@ -54,7 +54,7 @@ const Header =()=>{
             <span className="navbar-text">
               <div className="social-icon">
                 <a href="https://x.com/chronialsgame"><img src={xlogo} alt="xChronialsgame" /></a>
-                <a href="#"><img src={telegram} alt="" /></a>
+                <a href="https://t.me/chronials"><img src={telegram} alt="tChronialsgame" /></a>
                 <a href="https://t.me/chronials"><img src={dexLogo} alt="tChronialsgame" /></a>
               </div>
               <HashLink to='#connect'>
